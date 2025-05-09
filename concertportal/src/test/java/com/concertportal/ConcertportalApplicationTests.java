@@ -1,4 +1,4 @@
-package com.concertportal.concertportal;
+package com.concertportal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
